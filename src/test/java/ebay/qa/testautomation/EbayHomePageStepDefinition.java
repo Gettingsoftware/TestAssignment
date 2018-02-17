@@ -22,6 +22,7 @@ public class EbayHomePageStepDefinition extends WebConnector {
 	/**
 	 * Background
 	 * 
+	 * 
 	 */
 	
 	@Given("^I am a non-registered customer$")
